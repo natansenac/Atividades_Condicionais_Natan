@@ -1,0 +1,14 @@
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.exe
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.deps.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.runtimeconfig.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.AssemblyInfoInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.AssemblyInfo.cs
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.csproj.CoreCompileInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\refint\Verificação de Votação.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.genruntimeconfig.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Verificação de Votação\obj\Debug\net8.0\ref\Verificação de Votação.dll

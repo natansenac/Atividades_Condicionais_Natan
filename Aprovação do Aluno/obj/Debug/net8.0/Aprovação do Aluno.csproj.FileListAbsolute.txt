@@ -1,0 +1,14 @@
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.AssemblyInfoInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.AssemblyInfo.cs
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.csproj.CoreCompileInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\bin\Debug\net8.0\Aprovação do Aluno.exe
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\bin\Debug\net8.0\Aprovação do Aluno.deps.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\bin\Debug\net8.0\Aprovação do Aluno.runtimeconfig.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\bin\Debug\net8.0\Aprovação do Aluno.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\bin\Debug\net8.0\Aprovação do Aluno.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\refint\Aprovação do Aluno.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\Aprovação do Aluno.genruntimeconfig.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Aprovação do Aluno\obj\Debug\net8.0\ref\Aprovação do Aluno.dll

@@ -1,0 +1,14 @@
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.exe
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.deps.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.runtimeconfig.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfo.cs
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\refint\Intervalo de Valores.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.genruntimeconfig.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Intervalo de Valores\obj\Debug\net8.0\ref\Intervalo de Valores.dll
