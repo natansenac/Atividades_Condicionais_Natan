@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Qual número é maior/1.0.0": {
+        "runtime": {
+          "Qual número é maior.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qual número é maior/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

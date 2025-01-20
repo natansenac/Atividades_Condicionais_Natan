@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\bin\Debug\net8.0\Positivo ou Negativo.exe
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\bin\Debug\net8.0\Positivo ou Negativo.deps.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\bin\Debug\net8.0\Positivo ou Negativo.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\bin\Debug\net8.0\Positivo ou Negativo.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\bin\Debug\net8.0\Positivo ou Negativo.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\refint\Positivo ou Negativo.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\Positivo ou Negativo.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Positivo ou Negativo\obj\Debug\net8.0\ref\Positivo ou Negativo.dll

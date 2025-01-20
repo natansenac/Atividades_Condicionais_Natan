@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042504BE-4DCB-4CE6-AA82-32D3C3DE402B}|Calculo do Desconto\\Calculo do Desconto.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\calculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042504BE-4DCB-4CE6-AA82-32D3C3DE402B}|Calculo do Desconto\\Calculo do Desconto.csproj|solutionrelative:calculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D446B0-85B1-4FFF-97AF-099D302B97DD}|Classificacao de Notas\\Classificacao de Notas.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\classificacao de notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D446B0-85B1-4FFF-97AF-099D302B97DD}|Classificacao de Notas\\Classificacao de Notas.csproj|solutionrelative:classificacao de notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB814CA-FC94-4FC8-99D0-453DB58F7DDD}|Dia da Semana\\Dia da Semana.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB814CA-FC94-4FC8-99D0-453DB58F7DDD}|Dia da Semana\\Dia da Semana.csproj|solutionrelative:dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C852809C-AB23-48B3-9D73-CE273F7313DB}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C852809C-AB23-48B3-9D73-CE273F7313DB}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|solutionrelative:verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5900952-3F1F-4A49-9CF6-A5BA8568ADB4}|Qual n\u00FAmero \u00E9 maior\\Qual n\u00FAmero \u00E9 maior.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\qual n\u00FAmero \u00E9 maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5900952-3F1F-4A49-9CF6-A5BA8568ADB4}|Qual n\u00FAmero \u00E9 maior\\Qual n\u00FAmero \u00E9 maior.csproj|solutionrelative:qual n\u00FAmero \u00E9 maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D8511-35EC-46F5-9D74-0016DD2D6240}|Intervalo de Valores\\Intervalo de Valores.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D8511-35EC-46F5-9D74-0016DD2D6240}|Intervalo de Valores\\Intervalo de Valores.csproj|solutionrelative:intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58141B0C-3E98-47F2-B73F-01D49BE7EF1A}|Verifica\u00E7\u00E3o de Paridade\\Verifica\u00E7\u00E3o de Paridade.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58141B0C-3E98-47F2-B73F-01D49BE7EF1A}|Verifica\u00E7\u00E3o de Paridade\\Verifica\u00E7\u00E3o de Paridade.csproj|solutionrelative:verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FBC87A-1EAA-498B-A2C6-987A262D1CA8}|Positivo ou Negativo\\Positivo ou Negativo.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FBC87A-1EAA-498B-A2C6-987A262D1CA8}|Positivo ou Negativo\\Positivo ou Negativo.csproj|solutionrelative:positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DE355-6824-47B2-96CC-474DD0D8E168}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DE355-6824-47B2-96CC-474DD0D8E168}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|solutionrelative:verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E831A83-4539-4ECE-9DCA-9AE7FE665D87}|Aprova\u00E7\u00E3o do Aluno\\Aprova\u00E7\u00E3o do Aluno.csproj|c:\\users\\lenovo\\downloads\\l\u00F3gica de programa\u00E7\u00E3o senac\\atividades_condicionais_natan-main\\atividades_condicionais_natan-main\\aprova\u00E7\u00E3o do aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E831A83-4539-4ECE-9DCA-9AE7FE665D87}|Aprova\u00E7\u00E3o do Aluno\\Aprova\u00E7\u00E3o do Aluno.csproj|solutionrelative:aprova\u00E7\u00E3o do aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Calculo do Desconto\\Program.cs",
+              "RelativeDocumentMoniker": "Calculo do Desconto\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Calculo do Desconto\\Program.cs",
+              "RelativeToolTip": "Calculo do Desconto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:59:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Classificacao de Notas\\Program.cs",
+              "RelativeDocumentMoniker": "Classificacao de Notas\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Classificacao de Notas\\Program.cs",
+              "RelativeToolTip": "Classificacao de Notas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:56:32.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Positivo ou Negativo\\Program.cs",
+              "RelativeDocumentMoniker": "Positivo ou Negativo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Positivo ou Negativo\\Program.cs",
+              "RelativeToolTip": "Positivo ou Negativo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:52:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:43:51.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Intervalo de Valores\\Program.cs",
+              "RelativeDocumentMoniker": "Intervalo de Valores\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Intervalo de Valores\\Program.cs",
+              "RelativeToolTip": "Intervalo de Valores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:35:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Qual n\u00FAmero \u00E9 maior\\Program.cs",
+              "RelativeDocumentMoniker": "Qual n\u00FAmero \u00E9 maior\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Qual n\u00FAmero \u00E9 maior\\Program.cs",
+              "RelativeToolTip": "Qual n\u00FAmero \u00E9 maior\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:27:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:21:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Dia da Semana\\Program.cs",
+              "RelativeDocumentMoniker": "Dia da Semana\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Dia da Semana\\Program.cs",
+              "RelativeToolTip": "Dia da Semana\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:06:48.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Idade\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verifica\u00E7\u00E3o de Idade\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:32:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Aprova\u00E7\u00E3o do Aluno\\Program.cs",
+              "RelativeDocumentMoniker": "Aprova\u00E7\u00E3o do Aluno\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\L\u00F3gica de Programa\u00E7\u00E3o Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Aprova\u00E7\u00E3o do Aluno\\Program.cs",
+              "RelativeToolTip": "Aprova\u00E7\u00E3o do Aluno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:20:11.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\bin\Debug\net8.0\Classificacao de Notas.exe
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\bin\Debug\net8.0\Classificacao de Notas.deps.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\bin\Debug\net8.0\Classificacao de Notas.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\bin\Debug\net8.0\Classificacao de Notas.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\bin\Debug\net8.0\Classificacao de Notas.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\refint\Classificacao de Notas.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\Classificacao de Notas.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Classificacao de Notas\obj\Debug\net8.0\ref\Classificacao de Notas.dll

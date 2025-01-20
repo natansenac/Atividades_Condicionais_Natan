@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\bin\Debug\net8.0\Calculo do Desconto.exe
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\bin\Debug\net8.0\Calculo do Desconto.deps.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\bin\Debug\net8.0\Calculo do Desconto.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\bin\Debug\net8.0\Calculo do Desconto.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\bin\Debug\net8.0\Calculo do Desconto.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\refint\Calculo do Desconto.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\Calculo do Desconto.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Calculo do Desconto\obj\Debug\net8.0\ref\Calculo do Desconto.dll

@@ -1,0 +1,14 @@
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\bin\Debug\net8.0\Dia da Semana.exe
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\bin\Debug\net8.0\Dia da Semana.deps.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\bin\Debug\net8.0\Dia da Semana.runtimeconfig.json
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\bin\Debug\net8.0\Dia da Semana.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\bin\Debug\net8.0\Dia da Semana.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.AssemblyInfoInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.AssemblyInfo.cs
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\refint\Dia da Semana.dll
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.pdb
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\Dia da Semana.genruntimeconfig.cache
+C:\Users\natan.vpedroso\Downloads\Atividades_Condicionais_Natan\Atividades Condicionais\Dia da Semana\obj\Debug\net8.0\ref\Dia da Semana.dll

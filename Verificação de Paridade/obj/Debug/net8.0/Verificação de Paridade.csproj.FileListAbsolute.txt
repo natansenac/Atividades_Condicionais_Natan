@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\bin\Debug\net8.0\Verificação de Paridade.exe
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\bin\Debug\net8.0\Verificação de Paridade.deps.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\bin\Debug\net8.0\Verificação de Paridade.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\bin\Debug\net8.0\Verificação de Paridade.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\bin\Debug\net8.0\Verificação de Paridade.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\refint\Verificação de Paridade.dll
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.pdb
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\Verificação de Paridade.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Lógica de Programação Senac\Atividades_Condicionais_Natan-main\Atividades_Condicionais_Natan-main\Verificação de Paridade\obj\Debug\net8.0\ref\Verificação de Paridade.dll
