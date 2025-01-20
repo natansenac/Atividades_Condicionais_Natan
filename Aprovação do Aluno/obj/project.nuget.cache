@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mUmkowYV9vY=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Lógica de Programação Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Aprovação do Aluno\\Aprovação do Aluno.csproj",
+=======
+  "dgSpecHash": "ItgD6WVh+6A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\Downloads\\Atividades_Condicionais_Natan\\Atividades Condicionais\\Aprovação do Aluno\\Aprovação do Aluno.csproj",
+>>>>>>> c7803a675425783a5227badf2e97a5fd9a13761b
   "expectedPackageFiles": [],
   "logs": []
 }

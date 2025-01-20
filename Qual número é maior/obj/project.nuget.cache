@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "iwFMrNOLDd4=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Lógica de Programação Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Qual número é maior\\Qual número é maior.csproj",
+=======
+  "dgSpecHash": "glDu3fnaS1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\Downloads\\Atividades_Condicionais_Natan\\Atividades Condicionais\\Qual número é maior\\Qual número é maior.csproj",
+>>>>>>> c7803a675425783a5227badf2e97a5fd9a13761b
   "expectedPackageFiles": [],
   "logs": []
 }

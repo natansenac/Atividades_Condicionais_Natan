@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3a/Gg2ViXtw=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Lógica de Programação Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verificação de Idade\\Verificação de Idade.csproj",
+=======
+  "dgSpecHash": "WoTnlAlLGZ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\Downloads\\Atividades_Condicionais_Natan\\Atividades Condicionais\\Verificação de Idade\\Verificação de Idade.csproj",
+>>>>>>> c7803a675425783a5227badf2e97a5fd9a13761b
   "expectedPackageFiles": [],
   "logs": []
 }

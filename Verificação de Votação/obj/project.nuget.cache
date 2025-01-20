@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gWnqYDUkovM=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Lógica de Programação Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Verificação de Votação\\Verificação de Votação.csproj",
+=======
+  "dgSpecHash": "upRatnz8kWA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\Downloads\\Atividades_Condicionais_Natan\\Atividades Condicionais\\Verificação de Votação\\Verificação de Votação.csproj",
+>>>>>>> c7803a675425783a5227badf2e97a5fd9a13761b
   "expectedPackageFiles": [],
   "logs": []
 }

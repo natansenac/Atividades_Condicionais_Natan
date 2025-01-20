@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "M0XtMB9LoEY=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Lógica de Programação Senac\\Atividades_Condicionais_Natan-main\\Atividades_Condicionais_Natan-main\\Dia da Semana\\Dia da Semana.csproj",
+=======
+  "dgSpecHash": "Do49Ya7m2cI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\Downloads\\Atividades_Condicionais_Natan\\Atividades Condicionais\\Dia da Semana\\Dia da Semana.csproj",
+>>>>>>> c7803a675425783a5227badf2e97a5fd9a13761b
   "expectedPackageFiles": [],
   "logs": []
 }
